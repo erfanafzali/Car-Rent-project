@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    src: url("/Assets/Fonts/PlusJakartaSans-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    src: url("/Assets/Fonts/PlusJakartaSans-Bold.ttf") format("ttf");
+}
+
+body,
+button {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
